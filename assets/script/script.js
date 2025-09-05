@@ -32,4 +32,4 @@ function toggleOpacity() {
 }
 
 // Cambia l'opacità ogni secondo
-setInterval(toggleOpacity, 10);
+setInterval(toggleOpacity, 40);
