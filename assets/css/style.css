@@ -41,6 +41,20 @@ button {
   border-radius: 2rem;
   font-family: inherit;
 }
+
+header {
+  position: relative;
+}
+
+/* GESTIONE DELL'SVG */
+
+.svg {
+  width: 500px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
 /* NAV */
 nav {
   display: flex;
@@ -49,7 +63,7 @@ nav {
 }
 
 nav img {
-  width: 7rem;
+  width: 8rem;
 }
 
 .ulNav {
